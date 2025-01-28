@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/RandomEmployeePicker/static/css/main.c72f05d5.css",
-    "main.js": "/RandomEmployeePicker/static/js/main.039b3175.js",
+    "main.css": "/RandomEmployeePicker/static/css/main.6c61215c.css",
+    "main.js": "/RandomEmployeePicker/static/js/main.717c1a61.js",
     "static/js/488.982f2b89.chunk.js": "/RandomEmployeePicker/static/js/488.982f2b89.chunk.js",
     "static/media/space-background2.jpg": "/RandomEmployeePicker/static/media/space-background2.670b237da9e6cbebeebb.jpg",
     "static/media/space-background.jpg": "/RandomEmployeePicker/static/media/space-background.07b91d0dbbddbd639548.jpg",
     "index.html": "/RandomEmployeePicker/index.html",
-    "main.c72f05d5.css.map": "/RandomEmployeePicker/static/css/main.c72f05d5.css.map",
-    "main.039b3175.js.map": "/RandomEmployeePicker/static/js/main.039b3175.js.map",
+    "main.6c61215c.css.map": "/RandomEmployeePicker/static/css/main.6c61215c.css.map",
+    "main.717c1a61.js.map": "/RandomEmployeePicker/static/js/main.717c1a61.js.map",
     "488.982f2b89.chunk.js.map": "/RandomEmployeePicker/static/js/488.982f2b89.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c72f05d5.css",
-    "static/js/main.039b3175.js"
+    "static/css/main.6c61215c.css",
+    "static/js/main.717c1a61.js"
   ]
 }
